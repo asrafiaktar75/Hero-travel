@@ -1,0 +1,72 @@
+.navber {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 150px;
+}
+
+.navber-link {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+
+.navber-link li {
+    margin-right: 60px;
+}
+
+.navber-link li a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.navber-title {
+    font-size: 45px;
+    color: black;
+    font-weight: 900;
+    text-decoration: none;
+    margin-right: 250px;
+}
+
+#sub-title {
+    color: #fd6e0a;
+}
+
+.travel {
+    background-image: url(../public/Group\ 13\ \(1\)\ \(1\).png);
+    background-size: cover;
+    background-position: center;
+    width: 1170px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    fill: 131318;
+    color: white;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    gap: 40px;
+    height: 84;
+    width: 800;
+
+}
+
+.plen {
+    margin-left: 150px;
+}
