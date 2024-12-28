@@ -53,10 +53,9 @@
 
 .btn {
     padding: 10px 20px;
-    background-color: white;
     border-radius: 10px;
     color: white;
-    font-size: 20px;
+    font-size: 2px;
     font-weight: 600;
     display: flex;
     list-style-type: none;
@@ -69,4 +68,81 @@
 
 .plen {
     margin-left: 150px;
+}
+
+.public {
+    position: absolute;
+    top: 85%;
+    right: 12%;
+}
+
+.tour-our {
+    padding: 50px;
+    font-size: 20px;
+    margin-left: 80px;
+
+
+
+
+}
+
+.red-btn {
+    padding: 10px 20px;
+    background-color: #fd6e0a;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.picture {
+    position: absolute;
+    left: 16%;
+}
+
+.photo {
+    position: absolute;
+    right: 12%;
+    row-gap: 15px;
+}
+
+.fool {
+    text-align: center;
+    margin: 10%;
+}
+
+.rose {
+    text-align: center;
+}
+
+.tree {
+    background-color: antiquewhite;
+    margin-left: 90px;
+}
+
+.tree-to {
+    background-color: rgb(134, 210, 210);
+}
+
+.grap {
+    display: flex;
+    gap: 25%;
+    margin: 8%;
+}
+
+.discounts {
+    text-align: center;
+    margin: 10%;
+}
+
+.place {
+    position: absolute;
+    left: 50%;
+}
+
+.lost {
+    position: absolute;
+    left: 15%;
+    font-size: 20px;
 }
