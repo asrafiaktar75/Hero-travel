@@ -146,3 +146,17 @@
     left: 15%;
     font-size: 20px;
 }
+
+.last-content {
+    position: absolute;
+    left: 72%;
+}
+
+.name {
+    height: 393;
+    width: 52;
+    position: absolute;
+    border: none;
+    border-radius: 5px;
+    gap: 50%;
+}
